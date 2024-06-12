@@ -36,7 +36,7 @@ The front-end of the app includes a user interface for viewing and interacting w
 
 To install and run the front-end of the app, follow these steps:
 
-1. Clone the repository to `https://github.com/dineshrj98/e-learning-mobile-app.git`.
+1. Clone the repository to `https://github.com/dineshrj98/Learn-App.git`.
 2. Install the required dependencies using `npm install`.
 3. Start the Expo server using `npm start`.
 4. Install the Expo app on your mobile device.
